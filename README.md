@@ -4,7 +4,7 @@ BoostCamp 2차과제 : MemeMe
 
 ## Kick - Collection View Cell의 크기 조절
 *Collection View* 화면 상단 왼쪽의 슬라이더를 이용하여, 사용자가 Collection View Cell의 크기를 조절할 수 있습니다.
-![Kick](./Kick.gif)
+![Kick](./img/Kick.gif)
 
 
 ## view 구조
