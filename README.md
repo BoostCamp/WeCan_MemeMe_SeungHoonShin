@@ -16,30 +16,25 @@ BoostCamp 2차과제 : MemeMe
 ![MainStoryBoard] (./img/MainStoryBoard.png)
 
 ## 초기화면
-![InitailView1](./img/InitailView1.png) ![InitialView2](./img/InitialView2.png)
 <img src="./img/InitialView1.png" width="40%">
 <img src="./img/InitialView2.png" width="40%">
 
 ##상단의 `New` 버튼으로 새로운 **Meme**를 만드는 View Controller로 이동한다.
 
-![ViewController](./img/ViewController.png)
 <img src="./img/ViewController.png" width="40%">
 
 ## Meme를 만드는 모습
  `Save`버튼으로 나만의 **Meme**모음을 만듭니다.
-![MemeMaking_landscape](./img/MemeMaking_landscape.png) ![MemeMaking_portrait](./img/MemeMaking_portrait.png)
 <img src="./img/MemeMaking_landscape.png" width="40%">
 <img src="./img/MemeMaking_portrait.png" width="40%">
 
 ## Share기능
-![Share](./img/Share.png)
 <img src="./img/Share.png" width="40%">
 
 ## TableView & CollectionView
 
 *TableView*에 작성한 Text 및 **Meme**생성 시간 추가
 
-![TableView](./img/TableView.png) ![CollectionView](./img/CollectionView)
 <img src="./img/TableView.png" width="40%">
 <img src="./img/CollectionView" width="40%">
 
@@ -47,7 +42,6 @@ BoostCamp 2차과제 : MemeMe
 
 윗 부분과 아랬부분을 약간 자르고 저장.
 
-![PhotoLibrary](./img/PhotoLibrary.png)
 <img src="./img/PhotoLibrary.png" width="40%">
 
 
