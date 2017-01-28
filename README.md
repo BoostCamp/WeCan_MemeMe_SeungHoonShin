@@ -11,4 +11,8 @@ BoostCamp 2차과제 : MemeMe
 ![MainStoryBoard] (./img/MainStoryBoard.png)
 
 초기화면
-![InitailView1](./img/InitailView1) ![InitailView2](./img/InitailView2)
+![InitailView1](./img/InitailView1.png) ![InitailView2](./img/InitailView2.png)
+
+
+상단의 `New` 버튼으로 새로운 **Meme**를 만드는 View Controller로 이동한다.
+![ViewController](./img/ViewController.png)
