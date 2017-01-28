@@ -1,5 +1,6 @@
 # WeCan_MemeMe_SeungHoonShin
-BoostCamp 2차과제 : MemeMe
+BoostCamp 2차과제 : MemeMe  
+[데모영상!](https://www.youtube.com/watch?v=9YCvLemL5eA&feature=youtu.be)
 
 
 ## Kick - Collection View Cell의 크기 조절
